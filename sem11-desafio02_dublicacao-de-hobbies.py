@@ -24,7 +24,7 @@ menu
 
         menuChoice = input("\n>_").lower()
     
-        #'c' para um cumprimento
+        #'c' para um cumprimento#
         if menuChoice == 'c':
 
             print(f'Aqui está o seu cumprimento {nome}:' )
